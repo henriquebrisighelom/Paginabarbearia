@@ -32,9 +32,9 @@ h3{
     font-size:18px;
     font-family: 'Verdana';
     font-weight: bold;
-    color: #606062;
-    padding: 10px 0;
-    margin-top: 20px;
+    color:#606062;
+    padding: 10px 15px;
+    margin-top: 15px;
     border-top: 1px solid #606062;
 }
 p{
@@ -55,7 +55,7 @@ a{
     font-family: 'Verdana';
     font-weight: bold;
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px;
     margin-top: 15px;
     color: #ffffff;
     background-color:powderblue ;
@@ -65,10 +65,10 @@ a{
 }
 h4{font-size:18px;
     font-family: 'Verdana';
-    font-weight: normal;
+    font-weight: bold;
     color: #606062;
-    padding: 10px 0;
-    margin-top: 30px;
-    border-top: 2px solid #606062;
+    padding: 10px 15px;
+    margin-top: 15px;
+    border-top: 1px solid #606062;
 
 }
